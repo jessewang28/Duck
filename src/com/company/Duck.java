@@ -10,6 +10,7 @@ public class Duck {
 
     public Duck (String n, double h, double w, String c, Boolean p, Boolean hot, String m)
     {
+        name = n;
         weight = w;
         height = h;
         color = c;
